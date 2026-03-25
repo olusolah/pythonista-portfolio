@@ -1,2 +1,2 @@
-# samdev
+# pythonista
 Portfolio website 
